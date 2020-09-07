@@ -7,6 +7,7 @@ Link to the patch: [Reddit post](https://old.reddit.com/r/steinsgate/comments/bx
 
 It is not recommended to run Okkei Patcher on weak, low-budget or very old devices.
 Okkei Patcher supports devices running Android from version 5.0 Lollipop and above with armeabi-v7a (though it is not tested on older versions of Android, it was tested on Android Oreo and Android 10).
+Ensure that you have enough free space on your device for a backup (min. 2 GB).
 It is recommended to not uninstall Okkei Patcher until you decide to uninstall CHAOS;CHILD completely, for your convenient user experience.
 
 ### **Steps for patching**
