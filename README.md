@@ -2,7 +2,7 @@
 **Okkei Patcher** is a simple tool for localizing the Android version of CHAOS;CHILD.
 It downloads the latest revision of CHAOS;CHILD Android English patch and automatically applies it to the installed Japanese version.
 It creates a backup of your original installation of CHAOS;CHILD as well. You can check a checkbox whether you want to backup/restore your save data.
-It is not planned to update the English patch. If you improved my English patch in some way, please contact me so I can upload it if it's compatible with Okkei Pather.
+It is not planned to update the English patch. If you improved my English patch in some way, please contact me so I can upload it if it's compatible with Okkei Patcher.
 Link to the patch: [Reddit post](https://old.reddit.com/r/steinsgate/comments/bxk37h/chaoschild_android_english_port/)
 
 It is not recommended to run Okkei Patcher on weak, low-budget or very old devices.
