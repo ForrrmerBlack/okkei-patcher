@@ -6,7 +6,7 @@ It is not planned to update the English patch. If you improved my English patch 
 Link to the patch: [Reddit post](https://old.reddit.com/r/steinsgate/comments/bxk37h/chaoschild_android_english_port/)
 
 It is not recommended to run Okkei Patcher on weak, low-budget or very old devices.
-Okkei Patcher supports devices running Android from version 5.0 Lollipop and above with armeabi-v7a (though it is not tested on older versions of Android, it was tested on Android Oreo and Android 10).
+Okkei Patcher supports devices running Android from version 4.4 KitKat and above with armeabi-v7a.
 Ensure that you have enough free space on your device for a backup (min. 2 GB).
 It is recommended to not uninstall Okkei Patcher until you decide to uninstall CHAOS;CHILD completely, for your convenient user experience.
 
@@ -24,7 +24,7 @@ It is recommended to not uninstall Okkei Patcher until you decide to uninstall C
 5. After installing CHAOS;CHILD the process of restoring original OBB cache will start. Please don't interrupt it. If you have save data backup in Okkei Patcher backup folder, Okkei Patcher will restore it.
 
 ### **Possible problems**
-* If you confirmed the installation of CHAOS;CHILD and still got an error message that it was not installed, it is possible that this message is wrong and the process will continue as normal. If you have experience in programming for Android platform and are interested in fixing this, contact me.
+* ~~If you confirmed the installation of CHAOS;CHILD and still got an error message that it was not installed, it is possible that this message is wrong and the process will continue as normal. If you have experience in programming for Android platform and are interested in fixing this, contact me.~~ Solved since v1.11.
 
 
 ## **Third party components**
