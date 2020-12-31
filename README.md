@@ -6,7 +6,7 @@ It is not planned to update the English patch. If you improved my English patch 
 Link to the patch: [Reddit post](https://old.reddit.com/r/steinsgate/comments/bxk37h/chaoschild_android_english_port/)
 
 It is not recommended to run Okkei Patcher on weak, low-budget or very old devices.
-Okkei Patcher supports devices running Android from version 4.4 KitKat and above with armeabi-v7a.
+Okkei Patcher supports devices running Android from version 4.4 KitKat (5.0 Lollipop before version 1.11) and above with armeabi-v7a.
 Ensure that you have enough free space on your device for a backup (min. 2 GB).
 It is recommended to not uninstall Okkei Patcher until you decide to uninstall CHAOS;CHILD completely, for your convenient user experience.
 
