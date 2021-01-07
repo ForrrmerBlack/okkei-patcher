@@ -1,5 +1,5 @@
 {
-	"Version":1,
+	"Version":2,
 	"OkkeiPatcher":{
 		"Version":16,
 		"Changelog":"v1.15\r\n- Bug fix: app not responding to any actions if user wants to abort process and clicks OK after process has been stopped by itself.\r\n- Bug fix: if an app update is corrupted app stops responding to actions.\r\n- Bug fix: some fixes in patch process.",
