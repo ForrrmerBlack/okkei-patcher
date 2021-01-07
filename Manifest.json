@@ -3,7 +3,7 @@
 	"OkkeiPatcher":{
 		"Version":16,
 		"Changelog":"v1.15\r\n- Bug fix: user wants to abort process and clicks OK after process has been stopped by itself which results in app not responding to any actions.",
-		"URL":"https://github.com/ForrrmerBlack/okkei-patcher/releases/download/1.14/Okkei.Patcher.v1.14.apk",
+		"URL":"https://github.com/ForrrmerBlack/okkei-patcher/releases/download/1.15/Okkei.Patcher.v1.15.apk",
 		"MD5":"812ae82da62552bb8299d033e8546df0",
 		"Size":18522492
 	},
