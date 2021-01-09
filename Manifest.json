@@ -1,10 +1,10 @@
 {
-	"Version":2,
+	"Version":3,
 	"OkkeiPatcher":{
-		"Version":16,
-		"Changelog":"v1.15\r\n- Bug fix: app not responding to any actions if user wants to abort process and clicks OK after process has been stopped by itself.\r\n- Bug fix: if an app update is corrupted app stops responding to actions.\r\n- Bug fix: some fixes in patch process.",
-		"URL":"https://github.com/ForrrmerBlack/okkei-patcher/releases/download/1.15/Okkei.Patcher.v1.15.apk",
-		"MD5":"e21051b232144c9d9c885c68bdde3608",
+		"Version":17,
+		"Changelog":"v1.16\r\n- Bug fix: incorrect clearing of OkkeiPatcher directory.",
+		"URL":"https://github.com/ForrrmerBlack/okkei-patcher/releases/download/1.16/Okkei.Patcher.v1.16.apk",
+		"MD5":"2f15aa9c3601d639b3f8047fb089a133",
 		"Size":18522492
 	},
 	"Scripts":{
