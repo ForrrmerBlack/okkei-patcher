@@ -2,7 +2,7 @@
 	"Version":3,
 	"OkkeiPatcher":{
 		"Version":17,
-		"Changelog":"v1.16\r\n- Bug fix: incorrect clearing of OkkeiPatcher directory.",
+		"Changelog":"v1.16\r\n- Bug fix: incorrect clearing of OkkeiPatcher directory in some cases.",
 		"URL":"https://github.com/ForrrmerBlack/okkei-patcher/releases/download/1.16/Okkei.Patcher.v1.16.apk",
 		"MD5":"2f15aa9c3601d639b3f8047fb089a133",
 		"Size":18522492
