@@ -4,7 +4,7 @@
 		"Version":19,
 		"Changelog":"v1.18\r\n- Bug fix: PATCH button becomes unavailable if there is a patch update available and if an app update was aborted.\r\n- Small optimizations.",
 		"URL":"https://github.com/ForrrmerBlack/okkei-patcher/releases/download/1.18/Okkei.Patcher.v1.18.apk",
-		"MD5":"ec530a1249a9913a5aa68393edc9e5f0",
+		"MD5":"dc7a71ec3ae8bb535950f42a34574401",
 		"Size":14049612
 	},
 	"Scripts":{
