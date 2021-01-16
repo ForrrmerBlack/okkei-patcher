@@ -1,10 +1,10 @@
 {
-	"Version":6,
+	"Version":7,
 	"OkkeiPatcher":{
-		"Version":20,
-		"Changelog":"v1.19\r\n- New: double back button tap/double use of back gesture to exit app to prevent accidental app close.\r\nv1.18\r\n- Bug fix: PATCH button becomes unavailable if there is a patch update available and if an app update was aborted.\r\n- Small optimizations.\r\nv1.17\r\n- Change: app update dialog shows after clicking OK in patch update dialog.\r\n- Reduced APK size.\r\nv1.16\r\n- Bug fix: incorrect clearing of OkkeiPatcher directory in some cases.\r\nv1.15\r\n- Bug fix: app not responding to any actions if user wants to abort process and clicks OK after process has been stopped by itself.\r\n- Bug fix: if an app update is corrupted app stops responding to actions.\r\n- Bug fix: some fixes in patch process.",
-		"URL":"https://github.com/ForrrmerBlack/okkei-patcher/releases/download/1.19/Okkei.Patcher.v1.19.apk",
-		"MD5":"c87a2d9b38503110afb444388c58883e",
+		"Version":21,
+		"Changelog":"v1.20\r\n- Bug fix: possible silent exception reports (without alert dialog).v1.19\r\n- New: double back button tap/double use of back gesture to exit app to prevent accidental app close.\r\nv1.18\r\n- Bug fix: PATCH button becomes unavailable if there is a patch update available and if an app update was aborted.\r\n- Small optimizations.\r\nv1.17\r\n- Change: app update dialog shows after clicking OK in patch update dialog.\r\n- Reduced APK size.\r\nv1.16\r\n- Bug fix: incorrect clearing of OkkeiPatcher directory in some cases.\r\nv1.15\r\n- Bug fix: app not responding to any actions if user wants to abort process and clicks OK after process has been stopped by itself.\r\n- Bug fix: if an app update is corrupted app stops responding to actions.\r\n- Bug fix: some fixes in patch process.",
+		"URL":"https://github.com/ForrrmerBlack/okkei-patcher/releases/download/1.20/Okkei.Patcher.v1.20.apk",
+		"MD5":"40eeb1eb7c349d5bb81a859e47863230",
 		"Size":14053708
 	},
 	"Scripts":{
