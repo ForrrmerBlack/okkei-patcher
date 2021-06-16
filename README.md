@@ -9,6 +9,7 @@ It is not recommended to run Okkei Patcher on weak, low-budget or very old devic
 Okkei Patcher supports devices running Android from version 4.4 KitKat (5.0 Lollipop before version 1.11) and above with armeabi-v7a.
 Ensure that you have enough free space on your device for a backup (min. 2 GB).
 It is recommended to not uninstall Okkei Patcher until you decide to uninstall CHAOS;CHILD completely, for your convenient user experience.
+NOTE: Okkei Patcher doesn't support Android 11 yet.
 
 ### **Steps for patching**
 1. Ensure that you have a stable internet connection. Also it is recommended to use Wi-Fi instead of mobile data due to large size of downloadable files.
