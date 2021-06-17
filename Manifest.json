@@ -1,11 +1,11 @@
 {
-	"Version":32,
+	"Version":33,
 	"OkkeiPatcher":{
 		"Version":41,
 		"Changelog":"v1.40\r\n- Bug fix: silent crashes when activity is not in foreground (not recommended to hide the app though).\r\n- Change: delete temp save data on uninstall fail.\r\n- Change: file copying and MD5 computing speed is again the same as in version 1.38 (was slower in 1.39).\r\nv1.39\r\n- Bug fix: crash on install fail.\r\n- Bug fix: crash on computing MD5 of empty file.\r\nv1.38\r\n- Changed manifest implementation to support several patches.\r\nv1.37\r\n- Refactoring: prepared base for possible different implementations of patch (e.g. different languages).\r\nv1.36\r\n- Bug fix: incorrect configuration changes handling while requesting permissions.\r\nv1.35\r\n- Change: delete temp save data when process is aborted.\r\nv1.34\r\n- Big refactoring. The result is correct handling of configuration changes (such as screen rotation or locale change).\r\n- Due to aforementioned change screen orientation is now not locked to portrait.\r\nv1.33\r\n- Refactoring.\r\nv1.32\r\n- Bug fix: exception on file download fail.\r\nv1.31\r\n- Bug fix: exception on manifest download fail.\r\nv1.30\r\n- Bug fix: save data backups from previous installations restore incorrectly.\r\n- Bug fix: progress bar is not indeterminate when installing APK.\r\nv1.29\r\n- Refactoring.\r\nv1.28\r\n- Refactoring.\r\nv1.27\r\n- Bug fix: progress bar stuck in indeterminate state after uninstall fail.\r\nv1.26\r\n- Reduced APK size.\r\nv1.25\r\n- Change: indeterminate progress bar when no progress report available.\r\nv1.24\r\n- Small optimizations.\r\nv1.23\r\n- Change: changed patch size rounding to rounding half away from zero.\r\nv1.22\r\n- Bug fix: task not cancelling if an app update was canceled from a dialog.\r\nv1.21\r\n- Change: show current app version in app update dialog.\r\nv1.20\r\n- Bug fix: possible silent exception reports (without alert dialog).\r\nv1.19\r\n- New: double back button tap/double use of back gesture to exit app to prevent accidental app close.\r\nv1.18\r\n- Bug fix: PATCH button becomes unavailable if there is a patch update available and if an app update was aborted.\r\n- Small optimizations.\r\nv1.17\r\n- Change: app update dialog shows after clicking OK in patch update dialog.\r\n- Reduced APK size.\r\nv1.16\r\n- Bug fix: incorrect clearing of OkkeiPatcher directory in some cases.\r\nv1.15\r\n- Bug fix: app not responding to any actions if user wants to abort process and clicks OK after process has been stopped by itself.\r\n- Bug fix: if an app update is corrupted app stops responding to actions.\r\n- Bug fix: some fixes in patch process.",
 		"URL":"https://github.com/ForrrmerBlack/okkei-patcher/releases/download/1.40/Okkei.Patcher.v1.40.apk",
-		"MD5":"e939021d354462505dd254857c8c4104",
-		"Size":13892949
+		"MD5":"c98b9a78387822318d443d3219da95e3",
+		"Size":14306645
 	},
 	"Scripts":{
 		"Version":1,
