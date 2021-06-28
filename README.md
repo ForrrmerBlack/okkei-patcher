@@ -26,3 +26,6 @@ NOTE: Okkei Patcher doesn't support Android 11 yet.
 
 ### **Possible problems**
 * ~~If you confirmed the installation of CHAOS;CHILD and still got an error message that it was not installed, it is possible that this message is wrong and the process will continue as normal. If you have experience in programming for Android platform and are interested in fixing this, contact me.~~ Solved since v1.11.
+
+## **Third party components**
+See [THIRDPARTY](THIRDPARTY.md)
